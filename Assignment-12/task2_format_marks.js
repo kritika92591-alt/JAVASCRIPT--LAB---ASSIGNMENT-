@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 12, Task: 2
+ | Assignment: 12, Task: 2
 function formatMarks(marks, callback) {
   return callback(marks);
 }
