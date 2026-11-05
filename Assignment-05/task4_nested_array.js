@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 5, Task: 4
+// Name: kritika | Roll Number: BCS2025462 | Assignment: 5, Task: 4
 const grid = [
   [1, 2, 3],
   [4, 5, 6]
