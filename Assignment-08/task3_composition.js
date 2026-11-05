@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 8, Task: 3
+// Name: kritika | Roll Number: BCS2025462 | Assignment: 8, Task: 3
 class Engine {
   constructor(power) {
     this.power = power;
