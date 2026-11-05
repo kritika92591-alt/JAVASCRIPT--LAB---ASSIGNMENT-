@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 2, Task: 3
+// Name: kritika | Roll Number: BCS2025462 | Assignment: 2, Task: 3
 const a = 8;
 const b = 4;
 let operator = "+";
