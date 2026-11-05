@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 12, Task: 3
+| Assignment: 12, Task: 3
 function repeatAction(times, action) {
   for (let round = 1; round <= times; round++) {
     action(round);
