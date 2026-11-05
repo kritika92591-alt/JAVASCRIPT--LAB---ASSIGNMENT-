@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 7, Task: 3
+// Name: kritika | Roll Number: BCS2025462| Assignment: 7, Task: 3
 function Student(name, marks) {
   this.name = name;
   this.marks = marks;
