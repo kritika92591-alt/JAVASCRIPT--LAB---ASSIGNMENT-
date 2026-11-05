@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 1, Task: 2
+// Name:kritika| Roll Number: BCS2025462 | Assignment: 1, Task: 2
 const schoolName = "Sample College";
 let year = 2026;
 
