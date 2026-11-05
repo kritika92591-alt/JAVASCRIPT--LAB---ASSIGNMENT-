@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 14, Task: 1
+ | Assignment: 14, Task: 1
 console.log("Start");
 
 setTimeout(() => {
