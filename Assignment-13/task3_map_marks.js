@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 13, Task: 3
+// Name: kritika | Roll Number: BCS2025462 | Assignment: 13, Task: 3
 const marks = [72, 85, 64, 90];
 const increasedMarks = marks.map((mark) => mark + 5);
 
