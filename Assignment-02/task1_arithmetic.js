@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 2, Task: 1
+// Name: kritika | Roll Number: BCS2025462 | Assignment: 2, Task: 1
 const a = 17;
 const b = 5;
 
