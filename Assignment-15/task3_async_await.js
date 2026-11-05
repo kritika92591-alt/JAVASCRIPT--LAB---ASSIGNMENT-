@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 15, Task: 3
+| Assignment: 15, Task: 3
 function checkMarks(marks) {
   return new Promise((resolve, reject) => {
     if (marks >= 0 && marks <= 100) {
