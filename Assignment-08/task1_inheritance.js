@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 8, Task: 1
+// Name: kritika | Roll Number: BCS2025462| Assignment: 8, Task: 1
 class Person {
   constructor(name) {
     this.name = name;
