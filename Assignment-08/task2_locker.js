@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 8, Task: 2
+// Name: kritika | Roll Number: BCS2025462| Assignment: 8, Task: 2
 class Locker {
   constructor() {
     this.pin = 1234;
