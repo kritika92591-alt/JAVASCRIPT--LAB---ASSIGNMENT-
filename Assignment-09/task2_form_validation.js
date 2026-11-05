@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 9, Task: 2
+// Name: kritika| Roll Number: BCS2025462 | Assignment: 9, Task: 2
 function validateForm(name) {
   const errors = [];
 
