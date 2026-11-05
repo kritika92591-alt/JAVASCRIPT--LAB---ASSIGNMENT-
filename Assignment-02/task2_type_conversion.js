@@ -1,4 +1,4 @@
-// Name: Zainul Ali | Roll Number: BCS2025413 | Assignment: 2, Task: 2
+// Name: kritika | Roll Number: BCS2025462 | Assignment: 2, Task: 2
 const textNumber = "12";
 const convertedNumber = Number(textNumber);
 console.log(convertedNumber + 5);
