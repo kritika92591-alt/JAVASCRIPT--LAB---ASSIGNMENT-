@@ -1,4 +1,4 @@
-// Name: kritika | Roll Number: BCS2025462| Assignment: 8, Task: 1
+ Name: kritika kumari | Roll Number: BCS2025462| Assignment: 8, Task: 1
 class Person {
   constructor(name) {
     this.name = name;
