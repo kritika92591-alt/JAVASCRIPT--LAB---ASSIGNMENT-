@@ -1,4 +1,4 @@
-// Name: kritika | Roll Number: BCS2025462 | Assignment: 7, Task: 1
+ Name: kritika kumari| Roll Number: BCS2025462 | Assignment: 7, Task: 1
 function Student(name, marks) {
   this.name = name;
   this.marks = marks;
