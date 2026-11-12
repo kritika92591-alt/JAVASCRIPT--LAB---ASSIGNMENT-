@@ -1,4 +1,4 @@
-// Name: kritika | Roll Number: BCS2025462  Assignment: 10, Task: 3
+Name: kritika kumari | Roll Number: BCS2025462  Assignment: 10, Task: 3
 const student = {
   name: "Rohan",
   roll: 12,
