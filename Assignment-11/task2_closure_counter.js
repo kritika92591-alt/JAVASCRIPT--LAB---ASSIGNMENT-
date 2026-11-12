@@ -1,4 +1,4 @@
-// Name: kritika | Roll Number: BCS2025462| Assignment: 11, Task: 2
+ Name: kritika kumari | Roll Number: BCS2025462| Assignment: 11, Task: 2
 function makeCounter() {
   let count = 0;
 
