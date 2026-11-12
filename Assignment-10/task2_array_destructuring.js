@@ -1,4 +1,4 @@
-// Name: kritika | Roll Number: BCS2025462| Assignment: 10, Task: 2
+Name: kritika | Roll Number: BCS2025462| Assignment: 10, Task: 2
 const subjects = ["Maths", "Science", "English"];
 const [first, second] = subjects;
 
