@@ -10,7 +10,7 @@ A function is a reusable block of code designed to perform a specific task. Func
 
 A function can accept parameters and return a value.
 
-### 2. Arrow Functions
+##3 2. Arrow Functions
 Arrow functions provide a shorter syntax for writing functions.
 
 Example:
