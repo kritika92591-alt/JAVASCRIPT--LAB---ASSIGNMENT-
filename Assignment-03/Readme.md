@@ -1,6 +1,6 @@
 # Assignment 03: Conditional Statements and Loops
 
-## Aim
+##AIM
 To learn decision-making statements and loops in JavaScript.
 
 ## Theory
