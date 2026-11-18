@@ -22,9 +22,7 @@ const square = n => n * n;
 Arrow functions differ from regular functions in how they handle `this`.
 
 ### 3. Default Parameters
-Default parameters provide values for function parameters when arguments are omitted or explicitly passed as `undefined`.
-
-Example:
+Default parameters provide values for function parameters when arguments are omitted or explicitly passed as `undefined
 
 ```javascript
 function greet(name = "Guest") {
